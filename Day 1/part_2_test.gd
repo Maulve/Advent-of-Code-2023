@@ -71,4 +71,4 @@ func _ready() -> void:
 	for num in output:
 		sum += int(num)
 
-	print(sum) # still wrong :/ , too low
+	print(sum) # 281
